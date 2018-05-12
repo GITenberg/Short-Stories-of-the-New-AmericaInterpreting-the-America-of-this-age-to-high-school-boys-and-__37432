@@ -1,0 +1,35 @@
+_repo: Short-Stories-of-the-New-AmericaInterpreting-the-America-of-this-age-to-high-school-boys-and-__37432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Laselle, Mary Augusta
+    alias: Laselle, Mary A.
+    birthdate: 1860
+    gutenberg_agent_id: '38840'
+    url: http://www.gutenberg.org/2009/agents/38840
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37432'
+  lccn: '19005853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+tableOfContents: A little Kansas leaven / Dorothy Canfield -- The survivors / Elsie
+  Singmaster -- The wildcat / A.P. Terhune -- The citizen / J.F. Dwyer -- The Indian
+  of the reservation / Grace Coolidge -- The night attack / A.S. Pier -- The path
+  of glory / Mary B. Pulver -- Sergt. Warren comes back from France / F. Ames, Jr
+  -- The coward / A.G. Empey -- Château-Thierry / F.O. Bartlett.
+title: 'Short Stories of the New America
+
+  Interpreting the America of this age to high school boys and girls'
+url: http://www.gutenberg.org/ebooks/37432
